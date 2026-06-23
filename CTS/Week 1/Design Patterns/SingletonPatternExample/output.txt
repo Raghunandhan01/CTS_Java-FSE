@@ -1,0 +1,4 @@
+Instance Created
+Logger 1: Hey logger 1 here
+Logger 2:Hey logger 2 here
+Both are same ? True
